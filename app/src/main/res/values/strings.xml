@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Catálogo</string>
+    <string name="title_activity_prueba">PruebaActivity</string>
+    <string name="hint_username">Nombre de Usuario</string>
+    <string name="hint_password">Contraseña</string>
+    <string name="text_button_login">Login</string>
+    <string name="dont_have_account">¿No tienes Cuenta?, </string>
+    <string name="create_here">Crea una aquí</string>
+    <string name="hint_email">Correo</string>
+    <string name="hint_user">Usuario</string>
+    <string name="hint_confirm_password">Confirma Contraseña</string>
+    <string name="hint_name">Nombre</string>
+    <string name="text_button_createaccount">Únete</string>
+    <string name="toolbar_title_createaccount">Crear Cuenta</string>
+    <string name="username_card">Usuario Apellido</string>
+    <string name="firstword_card">Hace</string>
+    <string name="timecard_card">4 días</string>
+    <string name="likenumber_card">Me gusta</string>
+
+    <string name="tab_search">Buscar</string>
+    <string name="tab_home">Inicio</string>
+    <string name="tab_profile">Perfil</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="secondword_detail">second word</string>
+    <string name="titleimagedetail">\"Actividades en la Playa\"</string>
+    <string name="lorem">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas dapibus euismod diam sed varius. Curabitur sagittis ornare elit. Aliquam vel lorem vulputate, imperdiet ligula dapibus, egestas orci. Etiam euismod interdum leo. Donec posuere maximus consequat. Duis vitae neque ac ipsum rhoncus feugiat quis auctor nibh. Praesent placerat, mauris sed convallis sollicitudin, neque dolor vehicula lectus, pharetra vulputate enim enim nec justo. Curabitur scelerisque purus eu leo hendrerit, eu interdum turpis consequat.</string>
+    <string name="transitionname_picture">transitionnamepicture</string>
+</resources>
